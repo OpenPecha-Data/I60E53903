@@ -1,0 +1,99 @@
+id: 64b47ab7d84c469c8e542bafa0e068ae
+annotation_type: index
+revision: '00001'
+annotations:
+  a3e17f5ed9784a5f808ea394b23700c6:
+    base: 2127.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 42
+    - title: Preface
+      span:
+        start: 43
+        end: 1466
+    - title: Chapter I
+      span:
+        start: 1467
+        end: 6228
+    - title: Chapter II
+      span:
+        start: 6229
+        end: 8474
+    - title: Chapter III
+      span:
+        start: 8475
+        end: 10694
+    - title: Chapter IV
+      span:
+        start: 10695
+        end: 14229
+    - title: Chapter V
+      span:
+        start: 14230
+        end: 16000
+    - title: Chapter VI
+      span:
+        start: 16001
+        end: 17733
+    - title: Chapter VII
+      span:
+        start: 17734
+        end: 19156
+    - title: Chapter VIII
+      span:
+        start: 19157
+        end: 22030
+    - title: Chapter IX
+      span:
+        start: 22031
+        end: 33164
+    - title: Chapter X
+      span:
+        start: 33165
+        end: 35285
+    - title: Chapter XI
+      span:
+        start: 35286
+        end: 51697
+    - title: Chapter XII
+      span:
+        start: 51698
+        end: 56872
+    - title: Chapter XIII
+      span:
+        start: 56873
+        end: 60920
+    - title: Chapter XIV
+      span:
+        start: 60921
+        end: 66686
+    - title: Chapter XV
+      span:
+        start: 66687
+        end: 67489
+    - title: Chapter XVI
+      span:
+        start: 67490
+        end: 80520
+    - title: Chapter XVII
+      span:
+        start: 80521
+        end: 90687
+    - title: Chapter XVIII
+      span:
+        start: 90688
+        end: 109710
+    - title: Chapter XIX
+      span:
+        start: 109711
+        end: 121792
+    - title: Chapter XX-XXI
+      span:
+        start: 121793
+        end: 131081
+    - title: Colophon
+      span:
+        start: 131082
+        end: 131112
